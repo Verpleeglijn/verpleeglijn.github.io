@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BX5dh3L7.js";var t=e(),n=()=>(0,t.jsx)(`p`,{className:`rounded-lg border bg-card p-6 text-lg`,children:`Deze patiënt vond ik niet.`});export{n as errorComponent};
